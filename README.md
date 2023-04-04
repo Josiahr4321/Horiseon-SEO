@@ -1,17 +1,17 @@
 # Horiseon-SEO
 
 HTML
-    Changed div tag that held class="header" to "header"
-    Changed div tag that was holding the navigation bar to a "nav" tag
-    div tag that held class="hero" was changed to "figure"
-    div tag that held class="content" was changed to "main"
-    div tag that held class="benefits" to "aside"
-    The div tags that held paragraphs were changed to "section" tags
+    Changed div tag that held class="header" to "header".
+    Changed div tag that was holding the navigation bar to a "nav" tag.
+    div tag that held class="hero" was changed to "figure".
+    div tag that held class="content" was changed to "main".
+    div tag that held class="benefits" to "aside".
+    The div tags that held paragraphs were changed to "section" tags.
     Described the images using "alt" tags to help the visually empaired.
-    Changed class="benefit-lead" to class="benefit"
-    Changed class="benefit-brand" to class="benefit"
-    Changed class="benefit-cost" to class="benefit"
-    Changed div tag that held class="footer" to "footer"
+    Changed class="benefit-lead" to class="benefit".
+    Changed class="benefit-brand" to class="benefit".
+    Changed class="benefit-cost" to class="benefit".
+    Changed div tag that held class="footer" to "footer".
 
 CSS
     Changed ".header div" to ".header nav". This allowed my navigation bar to follow the same properties as the div tags prior.

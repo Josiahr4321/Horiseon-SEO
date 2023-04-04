@@ -33,3 +33,7 @@ CSS
     Cut ".benefit-lead h3", "benefit-brand h3", and ".benefit-cost h3". Created a code called ".benefit h3" and applied all the same properties the cut code had before.
     
     Cut ".benefit-lead img", ".benefit-brand img", ".benefit-cost img". Created a code called ".benefit img" and applied all the same properties the cut code had before.
+
+Link
+
+https://josiahr4321.github.io/Horiseon-SEO/

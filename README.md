@@ -29,6 +29,6 @@ CSS
     
     Cut ".benefit-lead",".benefit-brand", and ".benefit-cost" and their properties. Created a code called ".benefit" and applied all the same properties the cut code had before.
     
-    Cut ".benefit-lead h3", "benefit-brand h3", and ".benefit-cost h3". Created a code called ".benefit h3" and applied all the same properties the cut code had    before.
+    Cut ".benefit-lead h3", "benefit-brand h3", and ".benefit-cost h3". Created a code called ".benefit h3" and applied all the same properties the cut code had before.
     
     Cut ".benefit-lead img", ".benefit-brand img", ".benefit-cost img". Created a code called ".benefit img" and applied all the same properties the cut code had before.

@@ -1,6 +1,7 @@
 # Horiseon-SEO
 
 HTML
+    
     Changed div tag that held class="header" to "header".
     
     Changed div tag that was holding the navigation bar to a "nav" tag.

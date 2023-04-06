@@ -1,5 +1,7 @@
 # Horiseon-SEO
 
+For this challenege I revised all the basic tags of this website to semantic tags. This was needed so that when using the webiste each tag had a clear function. Another thing I addedn was the description of the images used as it helps the visually empaired. Below are the details of what I changed on the HTML and CSS for this website. Horiseon just got a whole lot better.
+
 HTML
     
     Changed div tag that held class="header" to "header".
